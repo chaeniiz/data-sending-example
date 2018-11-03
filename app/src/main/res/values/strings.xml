@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Data Sending Example</string>
+
+    <string name="go_name_fragment_button">설정해 줄 hint 값을 들고\nNameFragment로 가기</string>
+    <string name="hint">MainActivity가 이름을 입력하래요.</string>
+    <string name="nickname_hint">닉네임을 입력하세요.</string>
+    <string name="go_nickname_fragment_button">입력한 이름을\nNicknameFragment에 전달하기</string>
+    <string name="name_label">이름: </string>
+    <string name="nickname_label">닉네임: </string>
+    <string name="go_sub_activity_button">이름과 닉네임을 들고\nSubActivity로 가기</string>
+</resources>
